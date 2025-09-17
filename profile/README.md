@@ -6,10 +6,6 @@
 
 **Fostering trust 🤝 and advancing understanding 🧠 from scientific and biomedical images 🔬️.**
 
-## About Us
-
-Fideus Labs empowers researchers, government laboratories, and industry leaders with exceptional, precision-engineered computational imaging solutions by harnessing the expertise of world-class software professionals.
-
 ## What We Do
 
 - 🚀 **Innovation**: Pioneering new technologies and methodologies
