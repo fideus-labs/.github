@@ -2,7 +2,7 @@
 	<img src="./fideus-labs-logo.svg" alt="Fideus Labs Logo" width="256" />
 </p>
 
-# Welcome to Fideus Labs 👋
+# Welcome to Fideus Labs
 
 **Fostering trust 🤝 and advancing understanding 🧠 from scientific and biomedical images 🔬️.**
 
