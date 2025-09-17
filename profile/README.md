@@ -4,7 +4,7 @@
 
 # Welcome to Fideus Labs 👋
 
-**Fostering trust and advancing understanding from scientific and biomedical images.**
+**Fostering trust 🤝 and advancing understanding 🧠 from scientific and biomedical images 🔬️.**
 
 ## About Us
 
@@ -14,7 +14,7 @@ Fideus Labs empowers researchers, government laboratories, and industry leaders 
 
 - 🚀 **Innovation**: Pioneering new technologies and methodologies
 - 💡 **Development**: Creating robust, scalable software solutions
-- 🤝 **Collaboration**: Building strong partnerships and community connections
+- 👥 **Collaboration**: Building strong partnerships and community connections
 - 🌟 **Excellence**: Maintaining high standards in everything we deliver
 
 ## Get Involved
@@ -24,8 +24,8 @@ We believe in the power of open source and community collaboration. Check out ou
 ### Ways to Connect
 
 - 🌐 **Website**: [fideus.io](https://fideus.io)
-- 📧 **Contact**: Reach out through our repositories or website
-- 🤝 **Contribute**: Browse our open source projects and join the conversation
+- 📧 **Contact**: Email [info@fideus.io](mailto:info@fideus.io)
+- 🤝 **Contribute**: Browse our open source projects and join the community
 
 ---
 
