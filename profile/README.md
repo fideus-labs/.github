@@ -1,10 +1,10 @@
 # Welcome to Fideus Labs 👋
 
-**Building the future of technology, one innovation at a time.**
+**Fostering trust and advancing understanding from scientific and biomedical images.**
 
 ## About Us
 
-Fideus Labs is a forward-thinking technology organization focused on developing cutting-edge solutions and fostering innovation in the digital landscape. We are committed to creating impactful software that drives progress and transforms ideas into reality.
+Fideus Labs empowers researchers, government laboratories, and industry leaders with exceptional, precision-engineered computational imaging solutions by harnessing the expertise of world-class software professionals.
 
 ## What We Do
 
@@ -34,4 +34,4 @@ At Fideus Labs, we're dedicated to:
 
 ---
 
-*Follow us to stay updated on our latest projects and innovations!*
+*[Follow us](https://fideus.io/subscribe) to stay updated on our latest projects and innovations!*
