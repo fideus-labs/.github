@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="./fideus-labs-logo.svg" alt="Fideus Labs Logo" width="128" />
+</p>
+
 # Welcome to Fideus Labs 👋
 
 **Fostering trust and advancing understanding from scientific and biomedical images.**
@@ -22,15 +26,6 @@ We believe in the power of open source and community collaboration. Check out ou
 - 🌐 **Website**: [fideus.io](https://fideus.io)
 - 📧 **Contact**: Reach out through our repositories or website
 - 🤝 **Contribute**: Browse our open source projects and join the conversation
-
-## Our Commitment
-
-At Fideus Labs, we're dedicated to:
-
-- **Quality**: Delivering exceptional software and solutions
-- **Innovation**: Pushing the boundaries of what's possible
-- **Community**: Supporting and growing the developer ecosystem
-- **Transparency**: Maintaining open and honest communication
 
 ---
 
