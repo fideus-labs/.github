@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./fideus-labs-logo.svg" alt="Fideus Labs Logo" width="128" />
+	<img src="./fideus-labs-logo.svg" alt="Fideus Labs Logo" width="256" />
 </p>
 
 # Welcome to Fideus Labs 👋
