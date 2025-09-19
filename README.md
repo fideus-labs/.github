@@ -1,3 +1,3 @@
-# fideus labs
+# ⨍ideus labs
 
-The [fideus labs github organization profile](https://github.com/fideus-labs).
+The [⨍ideus labs github organization profile](https://github.com/fideus-labs).
